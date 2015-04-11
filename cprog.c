@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+//just editted
 int main(void)
 {
   int array[100], n, c, d, swap;
