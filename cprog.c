@@ -1,5 +1,6 @@
 #include <stdio.h>
 //just editted
+//it is paramount to open the folder of the repository to update it
 int main(void)
 {
   int array[100], n, c, d, swap;
