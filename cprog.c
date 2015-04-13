@@ -2,6 +2,7 @@
 //just editted
 //it is paramount to open the folder of the repository to update it
 //its been updated on the github webpage
+//i am polycarp(the second user),i am updating this repo
 int main(void)
 {
   int array[100], n, c, d, swap;
